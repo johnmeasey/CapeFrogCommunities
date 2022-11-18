@@ -1,0 +1,51 @@
+Site,Site name,Date visited,Latitude,Longitude,Wetland type,temporary,catchment,area,perimeter,pH,Conductivity,Lm  Bass,Tilapia M,Fish,Terapin,Crab,Frog,Xl,Af,Sg,Td,Ca,Sw,Av,Sp,Sc,Sb,Hh
+Site_01,Zilvermynbosch bottom ditch,170803,-34.2511,19.2413,Temp vlei,temp,G40L,6169,445,7.5,95,0,0,no-fish,no-terapin,no-crab,4,48,4,114,0,21,0,0,0,0,0,0
+Site_02,Zilvermynbosch at sand quarry,170617,-34.4128,19.4032,Temp vlei,temp,G40L,6450,324,7.5,300,0,0,no-fish,no-terapin,no-crab,3,0,0,10,0,0,0,17,0,0,16,0
+Site_03,Zilvermynbosch top dam,170612,-34.4143,19.4014,Large dam,perm,G40L,2785,668,7.3,210,0,0,no-fish,no-terapin,no-crab,7,13,43,0,2,3,4,3,0,0,0,1
+Site_04,Anton Duvensteyn pond,170801,-34.4091,19.4097,Small dam,temp,G40L,296,65,8.4,1450,0,0,no-fish,no-terapin,no-crab,5,2,3,0,0,1,0,0,0,0,1,2
+Site_05,Steenkamp ditch,170801,-34.4258,19.4237,Temp vlei,temp,G40L,684,151,7.5,400,0,0,no-fish,no-terapin,no-crab,3,0,0,5,0,64,0,18,0,0,0,0
+Site_06,Arum Lily pond,170617,-34.4277,19.4602,Small dam,perm,G40L,60,30,7.4,94,0,0,no-fish,no-terapin,no-crab,4,7,8,0,0,93,0,28,0,0,0,0
+Site_07,Jan Malan bottom dam,170801,-34.4294,19.4642,Large dam,perm,G40L,2296,204,7.3,1200,1,0,fish,no-terapin,no-crab,5,3,1,8,1,2,0,0,0,0,0,2
+Site_08,Jan Malan restaurant dam,170801,-34.429,19.4658,Small dam,perm,G40L,1305,133,7.4,700,0,0,no-fish,no-terapin,no-crab,5,0,0,1,2,3,0,0,3,0,0,3
+Site_09,Chris de Wit top dam,170905,-34.4257,19.4762,Large dam,perm,G40L,2767,197,7.3,700,0,0,no-fish,no-terapin,no-crab,4,29,5,14,0,0,0,0,0,850,0,0
+Site_10,Chris de Wit Bottom dam,170905,-34.4258,19.477,Small dam,perm,G40L,1027,123,7.7,1000,0,0,no-fish,no-terapin,no-crab,4,34,16,0,3,0,0,0,0,600,0,0
+Site_11,Chris Carstens pond,170821,-34.445,19.4573,River edge,perm,G40L,1392,165,6.1,610,0,0,no-fish,no-terapin,no-crab,1,213,0,0,0,0,0,0,0,0,0,0
+Site_12,Willem Appel dam,170821,-34.4431,19.4538,Large dam,perm,G40L,13917,607,8,1100,1,0,fish,no-terapin,crab,3,0,12,0,0,0,0,0,30,0,0,3
+Site_13,Kleinrivier King street,170821,-34.4368,19.4566,River edge,perm,G40L,1717,289,6.5,560,1,1,fish,no-terapin,no-crab,2,0,18,950,0,0,0,0,30,0,0,0
+Site_14,Kleinriver bottom,171010,-34.4321,19.4582,River edge,perm,G40L,1339,160,8.4,2000,1,1,fish,no-terapin,no-crab,4,1,0,27,0,0,0,0,30,300,0,0
+Site_15,Chris Burls Dam,170801,-34.4396,19.4771,Small dam,perm,G40L,1040,139,8.1,1510,1,0,fish,no-terapin,no-crab,4,43,0,0,0,3,0,0,9,3,0,0
+Site_16,Gary Pelser Riverfront,170813,-34.429,19.4791,River edge,perm,G40L,4542,338,8.4,1450,1,1,fish,no-terapin,no-crab,3,0,0,7,0,2,0,0,0,130,0,0
+Site_17,Hoekdam,170803,-34.4316,19.5027,Temp vlei,temp,G40L,1825,180,7.6,240,0,0,no-fish,no-terapin,no-crab,3,5,0,1247,0,294,0,0,0,0,0,0
+Site_18,Andries sand dam,170708,-34.4417,19.5085,Large dam,temp,G40L,3429,920,6.8,190,0,0,no-fish,no-terapin,no-crab,5,0,1,8,0,24,0,0,0,92,0,1
+Site_19,Arum lily vlei,170808,-34.4403,19.509,Temp vlei,temp,G40L,692,127,7.1,650,0,0,no-fish,no-terapin,no-crab,5,44,0,1029,0,93,2,0,0,0,0,2
+Site_20,Modderrivier farmstead,170808,-34.4438,19.5164,Large dam,perm,G40L,3518,764,7.1,645,0,1,fish,no-terapin,no-crab,3,103,1,0,0,0,0,0,98,0,0,0
+Site_21,Modderrivier rooidam,170814,-34.4474,19.5187,Large dam,perm,G40L,2435,194,6.9,430,0,0,no-fish,no-terapin,no-crab,6,3,1,2000,5,6,0,0,324,0,0,0
+Site_22,Flip pump dam,170814,-34.4467,19.522,River edge,perm,G40L,2070,558,7.3,705,0,0,no-fish,no-terapin,crab,3,36,1,3,0,0,0,0,0,0,0,0
+Site_23,Flip road dam,170814,-34.444,19.5246,Small dam,temp,G40L,823,113,7.3,705,0,0,no-fish,no-terapin,no-crab,4,27,1,10,0,2,0,0,0,0,0,0
+Site_24,Chrisjan road dam,170803,-34.4439,19.5364,Large dam,perm,G40L,2500,267,6.5,390,0,0,no-fish,no-terapin,no-crab,4,109,1,11,0,1,0,0,0,0,0,0
+Site_25,Grootvlei bottom dam,170417,-34.4477,19.5465,Small dam,perm,G40L,1395,147,7.1,560,0,0,no-fish,no-terapin,no-crab,4,0,0,13,0,2,0,0,3550,0,3,0
+Site_26,Vaalvlei Sand pit,171212,-34.4463,19.5502,Temp vlei,temp,G40L,100,30,7.4,250,0,0,no-fish,no-terapin,no-crab,1,0,0,475,0,0,0,0,0,0,0,0
+Site_27,Vaalvlei irrigation dam,170916,-34.4466,19.5516,Large dam,perm,G40L,2030,204,7.5,715,1,1,fish,no-terapin,no-crab,5,0,0,19,0,2,0,8,0,3400,0,1
+Site_28,Vaalvlei top dam,170916,-34.4462,19.5518,Large dam,perm,G40L,4541,263,7.6,610,1,1,fish,no-terapin,no-crab,3,0,1,0,0,0,0,0,0,7100,0,1
+Site_29,Vaalvlei spring,170916,-34.4465,19.554,Fynbos pool,temp,G40L,120,50,7.5,600,0,0,no-fish,no-terapin,no-crab,5,29,3,13,0,0,0,15,0,0,0,1
+Site_30,Eikenhof dam,171020,-34.4451,19.561,Small dam,perm,G40L,331,72,4.6,340,0,0,no-fish,no-terapin,no-crab,4,9,0,2,0,0,0,2,0,2000,0,0
+Site_31,Oak Grove vlei,170505,-34.4423,19.5577,Small dam,perm,G40L,1498,146,6.8,650,0,0,no-fish,no-terapin,no-crab,3,1,2,31,0,0,0,0,0,0,0,0
+Site_32,Sabene and Bernd,170819,-34.425,19.5551,Small dam,perm,G40L,304,216,6.8,710,0,0,no-fish,no-terapin,no-crab,4,95,5,5,0,0,0,0,0,0,0,2
+Site_33,Radynsdam,170819,-34.4759,19.5786,Small dam,perm,G40M,140,45,7,380,0,0,no-fish,no-terapin,no-crab,5,81,0,21,0,2,2,0,0,0,0,2
+Site_34,Oom Tat riverpool,170905,-34.4646,19.5945,River edge,perm,G40M,50,30,7.1,260,0,0,no-fish,no-terapin,no-crab,5,80,1,2,0,5,0,0,0,1,0,0
+Site_35,Gavin Carstens dam,170809,-34.4657,19.5908,Large dam,perm,G40M,4886,279,7.4,810,1,1,fish,no-terapin,no-crab,3,35,1,6,0,0,0,0,0,0,0,0
+Site_36,Goedvertrouw swimpool river,170703,-34.5275,19.5384,River edge,perm,G40M,667,131,7.6,650,0,0,no-fish,no-terapin,no-crab,2,121,0,2,0,0,0,0,0,0,0,0
+Site_37,Goedvertrouw pump pool,170703,-34.5221,19.5467,Small dam,perm,G40M,814,131,7.6,625,0,0,no-fish,no-terapin,no-crab,3,52,2,1,0,0,0,0,0,0,0,0
+Site_38,Goedvertrouw Leentjie,170703,-34.5179,19.5415,Small dam,perm,G40M,470,270,7.6,660,0,0,no-fish,no-terapin,no-crab,4,61,7,4,0,6,0,0,0,0,0,0
+Site_39,Steynsbos dam,170824,-34.5256,19.4642,Small dam,perm,G40L,1075,125,7.4,830,0,0,no-fish,no-terapin,no-crab,6,44,0,2,3,4,0,0,300,0,0,1
+Site_40,Grootbos quarry,170824,-34.531,19.4774,Temp vlei,temp,G40M,4382,254,7.3,350,0,0,no-fish,no-terapin,no-crab,2,0,0,1568,0,3,0,0,0,0,0,0
+Site_41,Fynbos retreat top dam,170824,-34.5285,19.4891,Large dam,perm,G40M,5580,1207,7.2,730,0,1,fish,no-terapin,no-crab,9,89,3,2,1,0,0,4,12,1,0,1
+Site_42,Fountain busch dam,170824,-34.5284,19.49,Small dam,perm,G40M,100,50,7.5,790,0,0,no-fish,no-terapin,no-crab,3,64,2,0,0,0,0,0,0,0,0,1
+Site_43,Uilennes thatch roof,170907,-34.5677,19.4652,Large dam,perm,G40M,4517,313,7.4,1055,1,0,fish,no-terapin,no-crab,3,0,0,1,0,1,0,0,0,0,0,2
+Site_44,Uilenvlei Retreat,170907,-34.5672,19.4639,Small dam,perm,G40M,225,60,8,860,0,0,no-fish,no-terapin,crab,4,71,0,2,0,1,0,0,0,0,0,2
+Site_45,Koos Groenewald Dam,170801,-34.5631,19.4712,Small dam,perm,G40M,864,123,7.6,620,1,0,fish,no-terapin,no-crab,4,0,1,0,1,6,0,0,8,0,0,0
+Site_46,Koos Groenewald moddergat,170901,-34.5647,19.4737,Fynbos pool,temp,G40M,100,40,7.5,680,0,0,no-fish,no-terapin,no-crab,7,11,0,20,5,10,0,0,1301,1,0,3
+Site_47,Eyre pool,170907,-34.582,19.4704,Fynbos pool,temp,G40M,150,80,7.4,850,0,0,no-fish,no-terapin,no-crab,6,34,0,5,6,8,15,0,0,0,0,8
+Site_48,Groeneweide,170907,-34.5901,19.4057,Small dam,perm,G40M,250,55,7.3,1395,0,0,no-fish,no-terapin,no-crab,4,26,2,162,0,7,0,0,0,0,0,0
+Site_49,Franskraal Quarry ,170907,-34.599,19.3781,Large dam,perm,G40M,48963,1100,7.3,520,0,0,no-fish,no-terapin,no-crab,2,0,0,561,0,1,0,0,0,0,0,0
+Site_50,Vaalvlei vlei,170609,-34.4454,19.54938,Temp vlei,temp,G40L,8086,364,7.2,360,0,0,no-fish,no-terapin,no-crab,2,0,0,28,0,0,0,0,0,0,6,0
